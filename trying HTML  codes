@@ -1,0 +1,8 @@
+<script>
+let carName1 = "De'An"; // 
+let carName2 = "Hollins"; //
+document. innerHTML= 
+carName1 + " " careName2;
+</script>
+</body>
+</html>
